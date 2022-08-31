@@ -9,3 +9,4 @@
 8-firstdelete - deletes the file betty in the /tmp/my_first_directory 
 9-firstdirdeletion - deletes the first directory we made
 10-back - changes working directory to the previous one 
+11-lists - list all files even names begginig with a period which are hidden in current directory in long format
