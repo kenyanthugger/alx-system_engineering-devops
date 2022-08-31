@@ -14,3 +14,4 @@
 13-symbolic_link - creates symbolic link to /bin/ls named __ls__
 14-copy_html - copies all html files from current working directory
 100-lets_move - moves all files beggining with an uppercase letter to the directory /tmp/u
+101- clean emacs - deletes all files in th current working directory that end with the character ~
