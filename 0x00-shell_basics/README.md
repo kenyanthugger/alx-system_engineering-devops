@@ -15,3 +15,4 @@
 14-copy_html - copies all html files from current working directory
 100-lets_move - moves all files beggining with an uppercase letter to the directory /tmp/u
 101- clean emacs - deletes all files in th current working directory that end with the character ~
+102-tree - creates the directories welcome/ , welcome/to/ and welcome/to/school in the current directory
