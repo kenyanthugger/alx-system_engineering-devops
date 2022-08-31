@@ -11,3 +11,4 @@
 10-back - changes working directory to the previous one 
 11-lists - list all files even names begginig with a period which are hidden in current directory in long format
 12-file_type  - prints type of file /tmp/iamafile
+13-symbolic_link - creates symbolic link to /bin/ls named __ls__
